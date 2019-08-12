@@ -21,7 +21,7 @@ public class SolutionOne {
                 break;
             }
         }
-        List<Integer> list = new ArrayList<Integer>();
+        List<Integer> list = new ArrayList<>();
         // 若K为0，说明A数组的数长度更长
         if (K == 0) {
             if (carry != 0) {
