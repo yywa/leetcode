@@ -1,6 +1,5 @@
 package leetcode657;
 
-import java.util.Stack;
 
 /**
  * @author yyw
